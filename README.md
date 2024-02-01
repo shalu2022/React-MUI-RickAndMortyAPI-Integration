@@ -14,7 +14,7 @@ This project is a small React application that integrates with the Rick and Mort
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/shalu2022/React-MUI-RickAndMortyAPI-Integration.git
+  git clone https://github.com/shalu2022/React-MUI-RickAndMortyAPI-Integration.git
    cd React-MUI-RickAndMortyAPI-Integration
 
 ## Install dependencies:
